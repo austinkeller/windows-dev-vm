@@ -1,5 +1,7 @@
 # Windows VM
 
+Quick setup for a Windows 10 VM using Vagrant box [peru/windows-10-enterprise-x64-eval](https://app.vagrantup.com/peru/boxes/windows-10-enterprise-x64-eval) on Arch Linux
+
 ## Dependencies
 
 ```bash
