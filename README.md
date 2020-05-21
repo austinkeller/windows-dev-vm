@@ -27,5 +27,11 @@ can use RDP to access the machine by running
 vagrant rdp
 ```
 
+or, more generally
+
+```bash
+rdesktop -u vagrant -p vagrant <your-hostname>:3389
+```
+
 Data can be shared between the host and guest using the `data/` directory within
 this directory and the `C:\Users\vagrant\data` folder on the guest.
